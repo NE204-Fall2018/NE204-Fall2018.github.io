@@ -3,4 +3,5 @@
 
 # Pelican stuff
 srv.pid
+pelican.pid
 output/*
