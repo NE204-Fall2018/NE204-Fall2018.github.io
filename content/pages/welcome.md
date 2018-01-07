@@ -31,3 +31,18 @@ Additional coursework including introductory signals and systems
 equivalent) and introduction to imaging 
 ([NE 107](https://www.nuc.berkeley.edu/courses/ne-107) would be beneficial but
 is not required.
+
+## Course texts
+
+There is no required textbook for the course. The following textbooks are
+recommended:
+
+ - Glenn F. Knoll, [Radiation Detection and Measurement, 4th Ed](https://www.wiley.com/en-us/Radiation+Detection+and+Measurement,+4th+Edition-p-9780470131480)
+ - Helmuth Spieler, [Semiconductor Detector Systems](https://global.oup.com/academic/product/semiconductor-detector-systems-9780198527848?cc=us&lang=en&)
+ - Gordon Gilmore, [Practical Gamma-ray Spectrometry](http://onlinelibrary.wiley.com/book/10.1002/9780470861981)
+
+The following are excellent references for collaborative, reproducible
+workflows for scientific computing:
+
+ - Huff & Scopatz, [Effective Computation in Physics](http://physics.codes/)
+ - Chacon & Straub, [Pro Git](https://git-scm.com/book/en/v2)
