@@ -1,23 +1,24 @@
 title: NE 204 - UC Berkeley Nuclear Engineering
-slug: home
+url:
+save_as: index.html
 date: 2018-01-06
 modified: 2018-01-06
 
-# Advanced Nuclear Instrumentation Laboratory
+## Advanced Nuclear Instrumentation Laboratory
 
 Graduate-level laboratory on radiation detection, measurement, and
 instrumentation.
 
-# Instructor
+## Instructor
 
  - Ross Barnowski (rossbar@berkeley.edu)
     - Office hours: TBD
 
-# Session Dates
+## Session Dates
  - Lecture: Tu & Th 9-10 AM | 39 Evans Hall
  - Lab: Wed 1-5 PM | 1110B Etcheverry Hall
 
-# Prerequisites
+## Prerequisites
 
 All students must have completed coursework in introductory nuclear physics
 (NE 101 or equivalent) and the undergraduate radiation instrumentation 
