@@ -4,7 +4,7 @@ save_as: index.html
 date: 2018-01-06
 modified: 2018-01-06
 
-## Advanced Nuclear Instrumentation Laboratory
+## Advanced Concepts in Radiation Detection and Measurement
 
 Graduate-level laboratory on radiation detection, measurement, and
 instrumentation.
@@ -21,9 +21,13 @@ instrumentation.
 ## Prerequisites
 
 All students must have completed coursework in introductory nuclear physics
-(NE 101 or equivalent) and the undergraduate radiation instrumentation 
-laboratory (NE 104 or equivalent). Graduate standing required for enrollment. 
+([NE 101](https://www.nuc.berkeley.edu/courses/ne-101) or equivalent) and the
+undergraduate radiation instrumentation laboratory 
+([NE 104](https://www.nuc.berkeley.edu/courses/ne-104) or equivalent).
+Graduate standing required for enrollment. 
 
 Additional coursework including introductory signals and systems 
-(EE 20 | BioE 165 or equivalent) and introduction to imaging (NE 107) would be
-beneficial but is not required.
+([EE 20](https://inst.eecs.berkeley.edu/~ee20/archives.html), BioE 165 or
+equivalent) and introduction to imaging 
+([NE 107](https://www.nuc.berkeley.edu/courses/ne-107) would be beneficial but
+is not required.
