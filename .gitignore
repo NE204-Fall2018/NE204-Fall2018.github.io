@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+
+# Pelican stuff
+srv.pid
+output/*
