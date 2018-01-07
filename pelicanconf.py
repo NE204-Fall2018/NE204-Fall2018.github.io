@@ -12,6 +12,17 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
+# For site theme
+# NOTE: Requires cloning of pelican-themes and pelican-plugins repos into
+# /home/ross/repos
+THEME = '/home/ross/repos/pelican-themes/pelican-bootstrap3'
+PLUGIN_PATHS = ['/home/ross/repos/pelican-plugins',]
+PLUGINS = ['i18n_subsites']
+I18N_TEMPLATES_LANG = 'en'
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
