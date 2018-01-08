@@ -145,3 +145,41 @@ reproducible workflows for scientific computing:
 
  - Huff & Scopatz, [Effective Computation in Physics](http://physics.codes/)
  - Chacon & Straub, [Pro Git](https://git-scm.com/book/en/v2)
+
+### Course Policies
+
+#### Academic Integrity
+All papers and reports submitted by students is presumed to be their own 
+original work that has not been previously submitted for credit in another
+course.
+Evaluation of the assigned readings are based on the honor system.
+
+#### Collaboration
+Collaboration is strongly encouraged amongst research teams and between all 
+students in the course, however it is the responsibility of each student to
+ensure all submitted work is enirely their own and reflects their own 
+understanding.
+Collaborative efforts relating to data analysis and report writing are 
+encouraged, but must be done in *review*.
+In other words, data analysis and written work must be undertaken by each 
+student individually prior to any peer review.
+Plagarism or the direct sharing of completed data analysis between students who
+have not yet reached the pre-defined milestones in analysis of their own
+undertaking will not be tolerated.
+
+#### Laboratory Safety
+Each student is responsible for completing the necessary training to be placed
+on Radiation User Authorization (RUA) #8905.
+Once on RUA 8905, each student will be provided with thermoluminescent 
+dosimeter (TLD) badges that must be worn at all times in the laboratory areas
+(1110B Etcheverry Hall, 1140 Etcheverry Hall).
+Any radioactive sources used during experiments must be logged out using the
+physical source log in 1110B Etcheverry hall.
+Standard operating procedures (SOPs) governing the use and handling of 
+radioactive sources are available on the UC Berkeley
+[radiation safety information system (RSIS)](https://ehs.berkeley.edu/radiation-safety/radiation-safety-information-system-rsis).
+It is the responsibility of the students to familiarize themselves with these
+SOPs prior to using or handling radioactive sources.
+In additon to the SOPs, ALARA principles should be observed at all times when
+handling radioactive sources.
+
