@@ -7,6 +7,7 @@ SITENAME = u'NE204-Spring2018'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['pages', 'downloads']
 
 TIMEZONE = 'America/Los_Angeles'
 
