@@ -1,4 +1,4 @@
-title: Description
+title: Course Overview
 date: 2018-01-06
 modified: 2018-01-06
 
