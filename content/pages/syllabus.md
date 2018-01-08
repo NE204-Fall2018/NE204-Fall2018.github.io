@@ -1,4 +1,4 @@
-title: Syllabus
+title: Description
 date: 2018-01-06
 modified: 2018-01-06
 
@@ -59,18 +59,18 @@ Upon completion of this course, students will...
  - Be capable of collecting digital signals from radiation detector systems and
    implementing forementioned techniques in software.
  - Understand the theory behind signal generation and charge transport in
-   semiconductor detector systems, and be capable of evaluating semiconductors
-   vis-a-vis signal shape and charge transport properties.
- - Be familiar with and capable of characterizing multi-channel radiation 
-   detector systems.
+   semiconductor detector systems and be capable of evaluating semiconductor
+   detectors vis-a-vis signal shape and charge transport properties.
+ - Be capable of collecting data from and characterizing multi-channel
+   radiation detector systems.
  - Be familiar with gamma-ray imaging techniques, including collimated and
    collimator-less modalities.
  - Understand from experience the challenges associated with advanced radiation
    detection systems, including high data rates, configuration of multichannel
    systems, and reliability for advanced applications.
- - be proficient with modern software tools for the effective communication of
-   scientific investigation, with knowledge of how to produce, replicate, and
-   review scientific work.
+ - Be proficient with modern software tools for the effective communication of
+   scientific investigation, and have experience producing and reviewing 
+   replicable scientific work.
 
 ### Topics Covered
 
@@ -87,7 +87,7 @@ Topics covered in the course include (but are not limited to):
    experimental physics, biomedicine, environmental science, and nuclear 
    security and safeguards.
 
-### Requirements
+### Course Requirements
 
 NE 204 students are responsible for...
 
