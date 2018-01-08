@@ -6,8 +6,8 @@ modified: 2018-01-06
 ### Spring Semester, 2018
 
 **Credit hours: 3**  
-**Class meets TuTh 9:00-10:00 AM in 39 Evans Hall**  
-**Lab meets Wed 1:00-5:00 PM in 1110B Etcheverry Hall**
+**Lecture: TuTh 9:00-10:00 AM in 39 Evans Hall**  
+**Lab:     Wed 1:00-5:00 PM in 1110B Etcheverry Hall**
 
 
 ### Instructor
