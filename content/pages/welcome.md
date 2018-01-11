@@ -7,7 +7,9 @@ modified: 2018-01-06
 ## Advanced Concepts in Radiation Detection and Measurement
 
 Graduate-level laboratory on radiation detection, measurement, and
-instrumentation.
+instrumentation.  
+
+Link to [NE204 Github](https://github.com/orgs/NE204-Spring2018/dashboard)
 
 ## Instructor
 
