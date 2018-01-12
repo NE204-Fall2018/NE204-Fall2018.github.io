@@ -1,6 +1,5 @@
 title: Assignments
 page-order: 04
-slug: z
 date: 01-06-2018
 
 Links to reading assignments and lab writeups will be posted here as they
