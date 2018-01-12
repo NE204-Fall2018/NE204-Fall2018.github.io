@@ -13,6 +13,10 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
+# Manual ordering for pages and articles
+ARTICLE_ORDER_BY = 'article-order'
+PAGE_ORDER_BY = 'page-order'
+
 # For site theme
 # NOTE: Requires cloning of pelican-themes and pelican-plugins repos into
 # /home/ross/repos

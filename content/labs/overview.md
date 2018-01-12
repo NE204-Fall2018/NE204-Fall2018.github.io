@@ -1,4 +1,5 @@
-title: Overview
+title: Lab Overview
+article-order: 01
 date: 01-10-2018
 
 The primary objective of this course is to provide students with hands-on

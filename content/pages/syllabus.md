@@ -1,4 +1,5 @@
 title: Syllabus
+page-order: 03
 date: 01-08-2018
 
 **Caveat:** This syllabus is intended only to give a broad overview of the 

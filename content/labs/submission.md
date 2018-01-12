@@ -1,4 +1,5 @@
 title: Submissions
+article-order: 02
 date: 01-10-2018
 
 Students are not required to use the report template, and are welcome to        
