@@ -22,13 +22,12 @@ implemented to obtain full credit for the submitted report (see the
     for your analysis.
 
 If you have no idea what this means, don't worry.
-It will be covered in our first lab session on (01-17-2018), and an in-class
+It will be covered in our first lab session on (01-17-2018), and the in-class
 example detailing these features will thereafter be available on 
-[the course github page](https://github.com/NE204-Spring2018) for future
-reference.
+[the course github page](https://github.com/NE204-Spring2018).
 
 It is not *required* that students use the 
-[provide template](https://github.com/NE204-Spring2018/lab_report_template) to
+[provided template](https://github.com/NE204-Spring2018/lab_report_template) to
 strucure their lab reports.
 For example, if you do not want to use make, you can replace the `Makefile` 
 with a build script of your own design.
@@ -39,7 +38,7 @@ following information:
  2. Instructions for running your code tests
  3. Instructions for downloading any relevant data
 
-Note that these "Instructions" should be in the form of scripts that can be
+Note that these "Instructions" should be in the form of a script(s) that can be
 run on the command line.
 
 ### Validating your submission

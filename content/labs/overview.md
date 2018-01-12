@@ -3,25 +3,25 @@ article-order: 01
 date: 01-10-2018
 
 The primary objective of this course is to provide students with hands-on
-experience with the advanced concepts introduced in the course.
-In particular, the laboratory portion emphasizes expirements in:
+experience with advanced concepts in radiation detection and measurement.
+In particular, the laboratory portion emphasizes:
 
  - Digital signal processing
- - Signal generation & pulse shape
+ - Signal generation & pulse shape analysis
  - Multichannel detector systems
  - Radiation imaging
 
 Ideally, we'd like for all students to have an opportunity to investigate all 
 of these concepts (and more) with each of the state-of-the-art radiation
 instruments we have available.
-Unfortunately, the complexity of many of the experiments; the limited
-instrument availability relative to the number of students; and time 
+Unfortunately, given the complexity of many of the experiments; the limited
+instrument availability relative to the number of students; and realistic time 
 constraints, it is simply not possible for each student to be able to conduct
 every proposed experiment to a satisfactory degree of depth.
 Instead, students will be expected to focus on three predefined laboratory 
 experiments, and propose a fourth to be studied in greater detail for the
 final project.
-The first two labs deal with digital signal processing, and will be 
+The first two labs deal with digital signal processing and will be 
 investigated by each lab group.
 A third lab on multichannel detector systems is planned, but which exact 
 investigation will be done will depend on individual groups and equipment
@@ -30,6 +30,9 @@ Ultimately, the total number of labs to be done is subject to change, with the
 goal of allowing students to conduct as many as possible.
 
 ## List of Labs
+
+Links to the lab writeups will be made available over the course of the
+semester.
 
   1. Digital Signal Processing in HPGe - Spectroscopy
   2. Digital Signal Processing in HPGe - Pulse Shape and Timing
@@ -70,19 +73,20 @@ Some key components of a reproducible workflow are:
  - Using tools that are *tested* and maintained to minimize errors in results
  - A tight coupling between the *analysis* (e.g. code) and the *presentation of
    the results* (e.g. report).
- - Version control to keep track of changes to both the analysis that produces
-   the results, and surrounding text/fluff for presenting the results.
+ - *Version control* to keep track of changes to both the analysis and
+   accompanying text/figures for presenting the results.
 
 In this course, students will implement a reproducible workflow for the lab
 work using the incredibly powerful
 [Python ecosystem for scientific computing](http://www.scipy-lectures.org/intro/intro.html),
 along with [Git](https://git-scm.com/book/en/v2) for version control and 
-[LaTeX](https://www.latex-project.org/), the de facto standard for generating
+[LaTeX](https://www.latex-project.org/): the de facto standard for generating
 technical documents.
 
 **N.B.** For a much more detailed and compelling description of reproducible
 workflows (and scientific computation in general), I refer to the seminal 
-textbook [Effective Computation in Physics](http://physics.codes/) by 
+textbook on the topic: 
+[Effective Computation in Physics](http://physics.codes/) by  
 [Kathryn Huff](http://katyhuff.github.io/) and 
 [Anthony Scopatz](http://www.ergs.sc.edu/people/scopatz.html).
 
