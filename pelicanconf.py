@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ross Barnowski'
 SITENAME = u'NE204-Spring2018'
-SITEURL = 'http://ne204-spring2018.github.io'
+SITEURL = ''
 
 PATH = 'content'
 STATIC_PATHS = ['pages', 'downloads']
