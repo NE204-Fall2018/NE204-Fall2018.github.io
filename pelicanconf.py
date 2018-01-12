@@ -36,10 +36,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (('Course Gihtub Organization', 
+          'https://github.com/orgs/NE204-Spring2018/dashboard'),
+         ('Python for Science', 'http://www.scipy-lectures.org/intro/'),
+         ('Learning Git', 'https://git-scm.com/book/en/v2'),
+         ('Intro to LaTeX', 'https://github.com/rossbar/LaTeXIntro'))
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
