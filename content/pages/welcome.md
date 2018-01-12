@@ -1,9 +1,8 @@
 title: NE 204 - UC Berkeley Nuclear Engineering
 url:
 save_as: index.html
-page-order: 01
 date: 2018-01-06
-modified: 2018-01-06
+page-order: 01
 
 ## Advanced Concepts in Radiation Detection and Measurement
 
