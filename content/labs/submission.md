@@ -46,3 +46,23 @@ run on the command line.
 The best way to verify that your report is going to come out the way you 
 expect it to is to clone a fresh version of your report repository and build
 it from scratch.
+
+### Submitting via Github
+
+All lab reports will be submitted via github.
+To submit your lab report, use the following procedure:
+
+ 1. Go to the class [Github organization](https://github.com/orgs/NE204-Spring2018/dashboard).
+ 2. Click the button to create a new repository.
+ 3. Name the repository <your\_github\_username\>-lab<\#\>. For example, if
+    I were creating a repository to submit lab 4, the repository would be named
+    **rossbar-lab4**.
+ 4. Add the link to the remote repository you just created to your list of
+    remotes in your local repository.
+    Again taking my submission of lab 4 as an example:
+    `git remote add submission https://github.com/NE204-Spring2018/rossbar-lab4.git`
+ 5. Push your local repository to the newly created remote named "submission":
+    `git push submission master`.
+
+Whatever is on the master branch of this repository at 9PM on the due date
+will be considered your submission.
