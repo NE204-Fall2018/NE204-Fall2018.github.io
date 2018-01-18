@@ -36,8 +36,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Course Gihtub Organization', 
-          'https://github.com/orgs/NE204-Spring2018/dashboard'),
+LINKS = (('Course Gihtub Organization', 'https://github.com/NE204-Spring2018'),
          ('Python for Science', 'http://www.scipy-lectures.org/intro/'),
          ('Learning Git', 'https://git-scm.com/book/en/v2'),
          ('Intro to LaTeX', 'https://github.com/rossbar/LaTeXIntro'))
