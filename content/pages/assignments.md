@@ -32,4 +32,4 @@ Shockley-Ramo theorem (see Knoll Appendix D for a brief review).
 
 ## Lab Reports
 
-#### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due: Thursday, 01-25-2018
+#### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf)
