@@ -30,6 +30,16 @@ Shockley-Ramo theorem (see Knoll Appendix D for a brief review).
   1. [W. Shockley "Currents to Conductors Induced by a Moving Point Charge](http://aip.scitation.org/doi/10.1063/1.1710367)
   2. [S. Ramo "Currents Induced by Election Motion"](http://ieeexplore.ieee.org/abstract/document/1686997/?reload=true)
 
+#### 2. Knoll Chapters 11 and 12 | Due: Tuesday, 01-30-2018
+
+Please review chapters 11 and 12 in Knoll.
+It is essential that you have a firm understanding of the basics of 
+semiconductor detector operation as we begin taking data with the HPGe 
+detectors in the lab.
+If you do not have a personal copy of Knoll, there are several available in
+1110B that you may borrow for this assignment.
+
 ## Lab Reports
 
-#### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf)
+#### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday 02-01-2018
+
