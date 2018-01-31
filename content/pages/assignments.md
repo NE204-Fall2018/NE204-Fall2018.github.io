@@ -39,6 +39,16 @@ detectors in the lab.
 If you do not have a personal copy of Knoll, there are several available in
 1110B that you may borrow for this assignment.
 
+#### 3. [Low-Noise Techniques in Detectors - Veljko Radeka](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ns.38.120188.001245) | Due: 02-13-2018
+
+This reading is a bit longer (~60 pages) and quite detailed, but offers an 
+incredible summary of many of the topics we have been and will continue 
+discussing for the next several weeks.
+If you only took one thing away from this class, you could do worse than a
+thorough understanding of this review.
+I strongly recommend dedicating quite a bit of time to this reading, along with
+multiple discussions with your peers.
+
 ## Lab Reports
 
 #### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday 02-01-2018
