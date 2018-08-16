@@ -1,4 +1,0 @@
-[submodule "output"]
-	path = output
-	url = git@github.com:NE204-Spring2018/ne204-spring2018.github.io.git
-    ignore = all
