@@ -1,6 +1,6 @@
 title: Assignments
 page-order: 04
-date: 01-06-2018
+date: 2018-08-16
 
 Links to reading assignments and lab writeups will be posted here as they
 are assigned, along with their corresponding due dates.
@@ -21,6 +21,7 @@ Berkeley network by using the
 [VPN](http://www.lib.berkeley.edu/using-the-libraries/vpn) services offered by
 the Berkeley library.
 
+<!--
 #### 1. Shockley-Ramo | Due: Tuesday, 01-23-2018
 
 The first reading assignment includes *two* papers: the original papers on
@@ -52,4 +53,4 @@ multiple discussions with your peers.
 ## Lab Reports
 
 #### 1. [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday 02-01-2018
-
+-->

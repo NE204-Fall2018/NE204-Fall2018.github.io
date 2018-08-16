@@ -1,7 +1,7 @@
 title: NE 204 - UC Berkeley Nuclear Engineering
 url:
 save_as: index.html
-date: 2018-01-06
+date: 2018-08-16
 page-order: 01
 
 ## Advanced Concepts in Radiation Detection and Measurement
@@ -9,7 +9,7 @@ page-order: 01
 Graduate-level laboratory on radiation detection, measurement, and
 instrumentation.  
 
-Link to [NE204 Github](https://github.com/orgs/NE204-Spring2018/dashboard)
+Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
 
 ## Instructor
 
@@ -17,8 +17,8 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Spring2018/dashboard)
     - Office hours: TBD
 
 ## Session Dates
- - Lecture: Tu & Th 9-10 AM | 39 Evans Hall
- - Lab: Wed 1-5 PM | 1110B Etcheverry Hall
+ - Lecture: Tu & Th 2-3 PM | 61 Evans Hall
+ - Lab: Wed 2-6 PM | 1110B Etcheverry Hall
 
 ## Prerequisites
 

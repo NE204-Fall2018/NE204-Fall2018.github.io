@@ -1,20 +1,20 @@
 title: Course Overview
 page-order: 02
-date: 2018-01-06
-modified: 2018-01-06
+date: 2018-08-16
+modified: 2018-08-16
 
 ## NE 204 - Advanced Concepts in Radiation Detection and Measurement
-### Spring Semester, 2018
+### Fall Semester, 2018
 
 **Credit hours: 3**  
-**Lecture: TuTh 9:00-10:00 AM in 39 Evans Hall**  
-**Lab:     Wed 1:00-5:00 PM in 1110B Etcheverry Hall**
+**Lecture: TuTh 2:00-3:00 PM in 61 Evans Hall**  
+**Lab:     Wed 2:00-6:00 PM in 1110B Etcheverry Hall**
 
 
 ### Instructor
 
 Ross Barnowski (rossbar@berkeley.edu)  
-Office Location: LBNL, Bldg. 50C-3321D  
+Office Location: TBD  
 Lab Location: 1140 Etcheverry Hall  
 Office Hours: TBD  
 
@@ -25,9 +25,9 @@ applications of radiation detection and measurement.
 The lecture component of the course introduces the theoretical bases for
 advanced concepts in radiation detection including signal formation and
 processing, radiation imaging, and advanced instrumentation and applications.
-The laboratory component emphasizes the practical aspects of the concepts
-covered in the lectures utilizing a variety of radiation sources in
-conjunction with state-of-the-art detectors and signal-processing components.
+The laboratory component emphasizes the practical aspects of these concepts
+utilizing a variety of radiation sources in conjunction with state-of-the-art
+detectors and signal-processing equipment.
 Laboratory work is to be performed using modern best-practices for 
 collaborative and reproducible scientific investigation, including open-source
 data analysis, version control, and rigorous peer-review.
@@ -69,9 +69,9 @@ Upon completion of this course, students will...
  - Understand from experience the challenges associated with advanced radiation
    detection systems, including high data rates, configuration of multichannel
    systems, and reliability for advanced applications.
- - Be proficient with modern software tools for the effective communication of
-   scientific investigation, and have experience producing and reviewing 
-   replicable scientific work.
+ - Be proficient with modern software tools for the effective 
+   scientific/technical communication, and have experience producing and
+   reviewing reproducible scientific work.
 
 ### Topics Covered
 
@@ -136,7 +136,7 @@ It is strongly recommended that all students have a copy of
 by Glenn Knoll for background and reference.
 [Semiconductor Detector Systems](https://global.oup.com/academic/product/semiconductor-detector-systems-9780198527848?cc=us&lang=en&)
 by Helmuth Spieler is an advanced textbook that serves as a detailed reference
-for many of the more concepts covered in this course.
+for many concepts covered in this course.
 [Practical Gamma-ray Spectrometry](http://onlinelibrary.wiley.com/book/10.1002/9780470861981)
 is an excellent book that may prove useful for the practical aspects of
 radiation measurement encountered in the lab portion of the course.
@@ -150,7 +150,7 @@ reproducible workflows for scientific computing:
 ### Course Policies
 
 #### Academic Integrity
-All papers and reports submitted by students is presumed to be their own 
+All papers and reports submitted by students are presumed to be their own 
 original work that has not been previously submitted for credit in another
 course.
 Evaluation of the assigned readings are based on the honor system.
@@ -164,7 +164,7 @@ Collaborative efforts relating to data analysis and report writing are
 encouraged, but must be done in *review*.
 In other words, data analysis and written work must be undertaken by each 
 student individually prior to any peer review.
-Plagarism or the direct sharing of completed data analysis between students who
+Plagarism or the direct sharing of completed data analyses between students who
 have not yet reached the pre-defined milestones in analysis of their own
 undertaking will not be tolerated.
 

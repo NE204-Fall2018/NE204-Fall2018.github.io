@@ -1,6 +1,6 @@
 title: Lab Report Rubric
 article-order: 03
-date: 01-10-2018
+date: 2018-08-16
 
 Lab reports will be submitted individually, with one github repository per
 student per lab.
@@ -24,7 +24,7 @@ issues, points will not be subtracted for failed compilations.
 Ten percent of the lab report grade will go towards an evaluation of the tests 
 provided with the data analysis code.
 Code testing is not the focus of these labs, so the test suite is not 
-expected to exhaustively test every piece of code written by the students.
+expected to exhaustively cover every piece of code written by the students.
 The goal here is more to get students used to the habit of writing tests for
 their data analysis code.
 One effective way of generating relevant tests is to implement "thought
@@ -62,8 +62,8 @@ been laid out to replicate your experiment.
 The results of your experimental procedures and subsequent data analyses
 should be presented here, along with relevant discussion communicating the
 context and signficance of the results.
-The "required" portions of the lab writeups should be specifically addressed
-here.
+The "required" portions of the lab writeups (if applicable) should be
+specifically addressed here.
 If your experimental results deviated from expectation according to the
 underlying theory, this should be addressed in your discussion.
 Points of emphasis for presented graphical/numerical results include:

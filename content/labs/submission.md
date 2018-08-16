@@ -1,6 +1,6 @@
 title: Lab Submissions
 article-order: 02
-date: 01-10-2018
+date: 2018-08-16
 
 Each report will be built from the source files (LaTeX and any figures in the
 `images/` directory, for example).
@@ -22,19 +22,19 @@ implemented to obtain full credit for the submitted report (see the
     for your analysis.
 
 If you have no idea what this means, don't worry.
-It will be covered in our first lab session on (01-17-2018), and the in-class
+It will be covered in our first lab session(s), and the in-class
 example detailing these features will thereafter be available on 
-[the course github page](https://github.com/NE204-Spring2018).
+[the course github page](https://github.com/NE204-Fall2018).
 
 It is not *required* that students use the 
-[provided template](https://github.com/NE204-Spring2018/lab_report_template) to
+[provided template](https://github.com/NE204-Fall2018/lab_report_template) to
 strucure their lab reports.
 For example, if you do not want to use make, you can replace the `Makefile` 
 with a build script of your own design.
 However, if you choose to do so, the README for your project must include the
 following information:
  
- 1. Instructions for building your report from the LaTeX files
+ 1. Instructions for building your report from the source files
  2. Instructions for running your code tests
  3. Instructions for downloading any relevant data
 
@@ -52,7 +52,7 @@ it from scratch.
 All lab reports will be submitted via github.
 To submit your lab report, use the following procedure:
 
- 1. Go to the class [Github organization](https://github.com/orgs/NE204-Spring2018/dashboard).
+ 1. Go to the class [Github organization](https://github.com/orgs/NE204-Fall2018/dashboard).
  2. Click the button to create a new repository.
  3. Name the repository <your\_github\_username\>-lab<\#\>. For example, if
     I were creating a repository to submit lab 4, the repository would be named
@@ -60,7 +60,7 @@ To submit your lab report, use the following procedure:
  4. Add the link to the remote repository you just created to your list of
     remotes in your local repository.
     Again taking my submission of lab 4 as an example:
-    `git remote add submission https://github.com/NE204-Spring2018/rossbar-lab4.git`
+    `git remote add submission https://github.com/NE204-Fall2018/rossbar-lab4.git`
  5. Push your local repository to the newly created remote named "submission":
     `git push submission master`.
 

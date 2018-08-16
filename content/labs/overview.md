@@ -1,6 +1,6 @@
 title: Lab Overview
 article-order: 01
-date: 01-10-2018
+date: 2018-08-16
 
 The primary objective of this course is to provide students with hands-on
 experience with advanced concepts in radiation detection and measurement.
@@ -16,8 +16,8 @@ of these concepts (and more) with each of the state-of-the-art radiation
 instruments we have available.
 Unfortunately, given the complexity of many of the experiments; the limited
 instrument availability relative to the number of students; and realistic time 
-constraints, it is simply not possible for each student to be able to conduct
-every proposed experiment to a satisfactory degree of depth.
+constraints; it is simply not possible for each student to be able to conduct
+every proposed experiment to a satisfactory degree.
 Instead, students will be expected to focus on three predefined laboratory 
 experiments, and propose a fourth to be studied in greater detail for the
 final project.
@@ -27,7 +27,8 @@ A third lab on multichannel detector systems is planned, but which exact
 investigation will be done will depend on individual groups and equipment
 availability.
 Ultimately, the total number of labs to be done is subject to change, with the
-goal of allowing students to conduct as many as possible.
+goal of allowing students to conduct as many as possible, while maximizing
+the time students spend on topics they are personally interested in.
 
 ## List of Labs
 
@@ -93,7 +94,7 @@ textbook on the topic:
 ## Lab Report Template
 
 In order to facilitate a "learn-by-doing" approach, a 
-[lab report template](https://github.com/NE204-Spring2018/lab_report_template)
+[lab report template](https://github.com/NE204-Fall2018/lab_report_template)
 is available in the course Github organization.
 Instructions for the basic usage of the template can be found in the README.
 

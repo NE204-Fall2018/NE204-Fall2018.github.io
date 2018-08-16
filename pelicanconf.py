@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Ross Barnowski'
-SITENAME = u'NE204-Spring2018'
+SITENAME = u'NE204-Fall2018'
 SITEURL = ''
 
 PATH = 'content'
@@ -36,7 +36,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Course Gihtub Organization', 'https://github.com/NE204-Spring2018'),
+LINKS = (('Course Gihtub Organization', 'https://github.com/NE204-Fall2018'),
          ('Python for Science', 'http://www.scipy-lectures.org/intro/'),
          ('Learning Git', 'https://git-scm.com/book/en/v2'),
          ('Intro to LaTeX', 'https://github.com/rossbar/LaTeXIntro'))
