@@ -35,3 +35,14 @@ python3 -m http.server
 ```
 
 The site is then accessible at `localhost:8000`
+
+## Publishing the site to GitHub (User/Organization pages)
+
+Use `ghp-import`: see [here](http://docs.getpelican.com/en/3.6.3/tips.html)
+for details.
+
+```bash
+pelican -o output -s pelicanconf.py
+ghp-import output
+git push git@github.com:<org-name>/<org-name>.github.io.git gh-pages:master
+```
