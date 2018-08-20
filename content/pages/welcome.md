@@ -48,3 +48,18 @@ workflows for scientific computing:
 
  - Huff & Scopatz, [Effective Computation in Physics](http://physics.codes/)
  - Chacon & Straub, [Pro Git](https://git-scm.com/book/en/v2)
+
+## Computation
+
+This course is structured around modern best-practices for reproducibility and
+collaboration in technical investigation.
+Further details on the motivation and structuring of the course can be found
+[here](https://arxiv.org/abs/1806.06145).
+While not required, it is strongly recommended that students use a 
+\*NIX-flavored OS, preferably one of the many distributions of Linux.
+For students who do not have such systems available, a virtual machine running
+Ubuntu 16.04 is provided that has been pre-configured with all of the tools
+used in the course (git, scientific python, LaTeX, etc.).
+The VM is available for download 
+[here](https://www.dropbox.com/sh/nhj6i0xxtroobgq/AAC1Xr0_G50c6V1zJik6gjPfa?dl=0),
+and can be run with Oracle VirtualBox.
