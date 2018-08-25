@@ -21,6 +21,17 @@ Berkeley network by using the
 [VPN](http://www.lib.berkeley.edu/using-the-libraries/vpn) services offered by
 the Berkeley library.
 
+#### 1. Knoll Chapters 11 and 12 and Appendix D | Due: Friday, 8/31/2018
+
+Please review chapters 11 ("Semiconductor Diode Detectors") and 
+12 ("Germanium Gamma-Ray Detectors"), as well as Appendix D 
+("The Shockley-Ramo Theorem for Induced Charge") in Knoll.
+It is essential that you have a firm understanding of the basics of 
+semiconductor detector operation as we begin taking data with the HPGe 
+detectors in the lab.
+If you do not have a personal copy of Knoll, there are several available in
+1110B that you may borrow for this assignment.
+
 <!--
 #### 1. Shockley-Ramo | Due: Tuesday, 01-23-2018
 
