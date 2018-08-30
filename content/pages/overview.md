@@ -14,7 +14,7 @@ modified: 2018-08-16
 ### Instructor
 
 Ross Barnowski (rossbar@berkeley.edu)  
-Office Location: TBD  
+Office Location: 4159 Etcheverry Hall  
 Lab Location: 1140 Etcheverry Hall  
 Office Hours: TBD  
 
