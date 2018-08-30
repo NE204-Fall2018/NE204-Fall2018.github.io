@@ -7,7 +7,7 @@ modified: 2018-08-16
 ### Fall Semester, 2018
 
 **Credit hours: 3**  
-**Lecture: TuTh 2:00-3:00 PM in 61 Evans Hall**  
+**Lecture: TuTh 2:00-3:00 PM in 54 Barrows Hall**  
 **Lab:     Wed 2:00-6:00 PM in 1110B Etcheverry Hall**
 
 
