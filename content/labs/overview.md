@@ -71,7 +71,8 @@ Some key components of a reproducible workflow are:
 
  - Using *accessible* tools for data analysis, so that other people are able to
    test your ideas.
- - Using tools that are *tested* and maintained to minimize errors in results
+ - Using tools that are *tested* to reduce errors and make it easier to 
+   integrate modifications and new features.
  - A tight coupling between the *analysis* (e.g. code) and the *presentation of
    the results* (e.g. report).
  - *Version control* to keep track of changes to both the analysis and
