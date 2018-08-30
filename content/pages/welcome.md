@@ -63,3 +63,4 @@ used in the course (git, scientific python, LaTeX, etc.).
 The VM is available for download 
 [here](https://www.dropbox.com/sh/nhj6i0xxtroobgq/AAC1Xr0_G50c6V1zJik6gjPfa?dl=0),
 and can be run with Oracle VirtualBox.
+The password for the **student** user in the VM is **NE204fall2018**.
