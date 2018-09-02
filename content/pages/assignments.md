@@ -32,6 +32,15 @@ detectors in the lab.
 If you do not have a personal copy of Knoll, there are several available in
 1110B that you may borrow for this assignment.
 
+#### 2. Shockley-Ramo | Due: Friday, 9/7/2018
+
+The second reading assignment includes *two* papers: the original papers on
+charge induction from charge-carrier motion that comprise the
+Shockley-Ramo theorem.
+
+  1. [W. Shockley "Currents to Conductors Induced by a Moving Point Charge](http://aip.scitation.org/doi/10.1063/1.1710367)
+  2. [S. Ramo "Currents Induced by Election Motion"](http://ieeexplore.ieee.org/abstract/document/1686997/?reload=true)
+
 <!--
 #### 1. Shockley-Ramo | Due: Tuesday, 01-23-2018
 
