@@ -17,7 +17,7 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
     - Office hours: TBD
 
 ## Session Dates
- - Lecture: Tu & Th 2-3 PM | 61 Evans Hall
+ - Lecture: Tu & Th 2-3 PM | 54 Barrows Hall
  - Lab: Wed 2-6 PM | 1110B Etcheverry Hall
 
 ## Prerequisites
