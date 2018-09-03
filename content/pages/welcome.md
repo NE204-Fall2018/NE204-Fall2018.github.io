@@ -16,7 +16,7 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
  - Ross Barnowski (rossbar@berkeley.edu)
     - Office hours: TBD
 
-## Assistants and Resources
+### Assistants and Resources
 
  - Joseph Curtis (jccurtis@lbl.gov)  
 
