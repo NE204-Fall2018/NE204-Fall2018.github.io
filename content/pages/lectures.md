@@ -8,3 +8,5 @@ date: 2018-08-16
  - [01_DetectionOverview]({filename}/downloads/01_DetectionOverview.pdf)
  - [02_RadiationInteractions]({filename}/downloads/02_ReviewRadiationInteractions.pdf)
  - [03_ReviewSemiconductorDetectors]({filename}/downloads/03_ReviewSemiconductorDetectors.pdf)
+ - [04_SignalSensingAndShaping]({filename}/downloads/04_SignalSensingAndShaping.pdf)
+
