@@ -41,6 +41,12 @@ Shockley-Ramo theorem.
   1. [W. Shockley "Currents to Conductors Induced by a Moving Point Charge](http://aip.scitation.org/doi/10.1063/1.1710367)
   2. [S. Ramo "Currents Induced by Election Motion"](http://ieeexplore.ieee.org/abstract/document/1686997/?reload=true)
 
+#### 3. V. Jordanov - Real-time DSP for Spectroscopy | Due: Friday, 9/14/2018
+
+[This paper](https://www.sciencedirect.com/science/article/pii/0168900294910111)
+describes the process of synthesizing pulse shapes for digital signals, with 
+specific emphasis on and detailed description of a digital trapezoidal shaper.
+
 ## Lab Reports
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
