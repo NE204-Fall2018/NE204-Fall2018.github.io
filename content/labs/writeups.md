@@ -21,8 +21,5 @@ possible options for lab 3, or to provide inspiration for final project
 proposals.
 
  - [Lab 3: Digital Signal Processing in LaBr Detectors]({filename}/downloads/lab3_writeup.pdf)  
-
-<!--
  - [Lab 4: Neutron Detection and Pulse Shape Discrimination in Liquid Scintillators]({filename}/downloads/lab4_writeup.pdf)  
 
--->
