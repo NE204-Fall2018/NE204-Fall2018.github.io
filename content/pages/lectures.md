@@ -9,6 +9,8 @@ date: 2018-08-16
  - [02_RadiationInteractions]({filename}/downloads/02_ReviewRadiationInteractions.pdf)
  - [03_ReviewSemiconductorDetectors]({filename}/downloads/03_ReviewSemiconductorDetectors.pdf)
  - [04_SignalSensingAndShaping]({filename}/downloads/04_SignalSensingAndShaping.pdf)
+ - [Marco Salathe - HPGe Detectors and Their Applications in Science]({filename}/downloads/MarcoSalathe_HPGeLecture.pdf)
  - [05_DSP-I_AnalogDigitalConversion]({filename}/downloads/05_DSP_I_AnalogDigitalConversion.pdf)
+
 
 
