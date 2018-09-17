@@ -10,7 +10,8 @@ date: 2018-08-16
  - [03_ReviewSemiconductorDetectors]({filename}/downloads/03_ReviewSemiconductorDetectors.pdf)
  - [04_SignalSensingAndShaping]({filename}/downloads/04_SignalSensingAndShaping.pdf)
  - [Marco Salathe - HPGe Detectors and Their Applications in Science]({filename}/downloads/MarcoSalathe_HPGeLecture.pdf)
- - [05_DSP-I_AnalogDigitalConversion]({filename}/downloads/05_DSP_I_AnalogDigitalConversion.pdf)
+ - [05_DSP-I_AnalogDigitalConversion](https://bcourses.berkeley.edu/courses/1474357/files)
+ - [06_DSP-II_DeconvolutionAndFIRSynthesis](https://bcourses.berkeley.edu/courses/1474357/files)
 
 
 
