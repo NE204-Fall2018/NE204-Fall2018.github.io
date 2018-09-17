@@ -16,9 +16,10 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
  - Ross Barnowski (rossbar@berkeley.edu)
     - Office hours: TBD
 
-### Assistants and Resources
+### Assistants and Guest Lecturers
 
  - Joseph Curtis (jccurtis@lbl.gov)  
+ - Marco Salathe (MSalathe@lbl.gov)
 
 ## Session Dates
  - Lecture: Tu & Th 2-3 PM | 54 Barrows Hall
