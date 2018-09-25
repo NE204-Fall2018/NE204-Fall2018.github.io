@@ -22,4 +22,5 @@ proposals.
 
  - [Lab 3: Digital Signal Processing in LaBr Detectors]({filename}/downloads/lab3_writeup.pdf)  
  - [Lab 4: Neutron Detection and Pulse Shape Discrimination in Liquid Scintillators]({filename}/downloads/lab4_writeup.pdf)  
-
+ - [Lab 5: Position Determination in HPGe Strip Detectors]({filename}/downloads/lab5_writeup.pdf)
+ - [Lab 6: Experimental Determination of Mobility Lifetime Product in HPGe Strip Detectors]({filename}/downloads/lab6_writeup.pdf)
