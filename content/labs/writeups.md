@@ -24,3 +24,4 @@ proposals.
  - [Lab 4: Neutron Detection and Pulse Shape Discrimination in Liquid Scintillators]({filename}/downloads/lab4_writeup.pdf)  
  - [Lab 5: Position Determination in HPGe Strip Detectors]({filename}/downloads/lab5_writeup.pdf)
  - [Lab 6: Experimental Determination of Mobility Lifetime Product in HPGe Strip Detectors]({filename}/downloads/lab6_writeup.pdf)
+ - [Lab 7: Depth Determination and Carrier Compensation in Pixellated CZT Detectors]({filename}/downloads/lab7_writeup.pdf)
