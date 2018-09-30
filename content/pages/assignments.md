@@ -59,3 +59,4 @@ multiple discussions with your peers.
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
 
+#### [Lab 1]({filename}/downloads/lab1_writeup.pdf) | Due Friday, 10/5/2018 by 9PM PST
