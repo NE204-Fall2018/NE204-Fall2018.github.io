@@ -45,7 +45,7 @@ There is no required textbook for the course. The following textbooks are
 recommended:
 
  - Glenn F. Knoll, [Radiation Detection and Measurement, 4th Ed](https://www.wiley.com/en-us/Radiation+Detection+and+Measurement,+4th+Edition-p-9780470131480)
- - Helmuth Spieler, [Semiconductor Detector Systems](https://global.oup.com/academic/product/semiconductor-detector-systems-9780198527848?cc=us&lang=en&)
+ - Helmuth Spieler, [Semiconductor Detector Systems](http://www-physics.lbl.gov/~spieler/misc_stuff/text/sent_02jul05/text_pdf/Semiconductor_Detector_Systems.pdf)
  - Gordon Gilmore, [Practical Gamma-ray Spectrometry](http://onlinelibrary.wiley.com/book/10.1002/9780470861981)
 
 The following are excellent references for collaborative, reproducible
