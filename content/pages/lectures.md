@@ -12,6 +12,5 @@ date: 2018-08-16
  - [Marco Salathe - HPGe Detectors and Their Applications in Science]({filename}/downloads/MarcoSalathe_HPGeLecture.pdf)
  - [05_DSP-I_AnalogDigitalConversion](https://bcourses.berkeley.edu/courses/1474357/files)
  - [06_DSP-II_DeconvolutionAndFIRSynthesis](https://bcourses.berkeley.edu/courses/1474357/files)
-
-
+ - [07_EnergyResolution_Fano_ElectronicNoise]({filename}/downloads/07_ElectronicNoise.pdf)
 
