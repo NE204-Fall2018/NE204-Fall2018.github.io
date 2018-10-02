@@ -13,9 +13,17 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
-# Manual ordering for pages and articles
+# Manual ordering for articles
 ARTICLE_ORDER_BY = 'article-order'
-PAGE_ORDER_BY = 'page-order'
+
+# Manual ordering of menu items
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (('Course Overview', '/pages/course-overview.html'),
+             ('Syllabus', '/pages/syllabus.html'),
+             ('Assignments', '/pages/assignments.html'),
+             ('Lectures', '/pages/lectures.html'),
+             ('Labs', '/category/labs.html'))
 
 # For site theme
 # NOTE: Requires cloning of pelican-themes and pelican-plugins repos into
