@@ -64,17 +64,69 @@ Additional Documentation:
 **Additional Documentation**: None  
 
 ### UCBGe3
+**Description**: Double-sided strip HPGe detector  
+ - 15.1 mm thick, segmented orthogonal-strip electrodes  
+ - 152 Strips, 2mm pitch, 0.25mm gap, 5mm guard ring  
+ - Operating Voltage: <font color="orange">See docs</font>  
+ - Ener. Res. @ 662 keV: <font color="orange">See docs</font>  
+**Location**: LBNL SDL (70A)
+**Readout**: SIS3302/3150  
+**Related Experiments**: [Lab 5]({filename}/downloads/lab5_writeup.pdf), 
+                         [Lab 6]({filename}/downloads/lab6_writeup.pdf)
+**Status**: <font color="orange">**Only half instrumented**</font>  
+**Additional Documentation**: None  
 
 ### Large Area Imager
-
-### PSD Plastics
+**Description**: 10x10 NaI(Tl) Coded Aperture Imager  
+ - 10x10 array of NaI(Tl) detectors w/ PMTs  
+ - 4x4x4 in. NaI(Tl) crystals  
+ - Coded aperture array, random configuration, 1 in. thick Pb elements   
+ - Operating Voltage: <1200V (varies by channel)   
+ - Ener. Res. @ 662 keV: ~9% (varies by channel)   
+**Location**: 1140 Etcheverry Hall   
+**Readout**: SIS3302/3150   
+**Related Experiments**:  [Lab 8 (CA)]({filename}/downloads/lab8_writeup.pdf)    
+**Status**: <font color="green">Available, 96/100 channels working</font>  
+**Additional Documentation**: None  
 
 ### Liquid Scintillation Detector (LSD) Scatter Camera
+**Description**: 2-plane, 24 element kinematic neutron imager
+ - 24 detectors (12 per plane)  
+ - 2 in. x 2 in. EJ309 (xylene-based) liquid scintillators  
+ - Operating Voltage: ~ -1350V (varies by channel)   
+ - Ener. Res. @ 662 keV: N/A  
+**Location**: 1140 Etcheverry Hall, 1140B   
+**Readout**: SIS3320 OR SIS3316   
+**Related Experiments**:  [Lab 4]({filename}/downloads/lab4_writeup.pdf)
+                          [Lab 9]   
+**Status**: <font color="orange">Available, readout requires setup</font>  
+**Additional Documentation**: None  
 
 ### Pixellated CZT
+**Description**: 10 mm3 CZT w/ 3x3 pixellated anode   
+ - 1 cm3 crystal, 3x3 pixellated anode + guard ring (see docs)  
+ - Operating Voltage: ~ -1000V (see docs)  
+ - Ener. Res. @ 662 keV: see docs   
+**Location**: 1140 Etcheverry Hall, modular room   
+**Readout**: SIS3302/3150
+**Related Experiments**:  [Lab 7]({filename}/downloads/lab7_writeup.pdf)  
+**Status**: <font color="green">2 Detectors Available</font>  
+**Additional Documentation**: None  
+
+### PSD Plastics
+**Description**: 1 in. or 2 in. Plastic Scint. w/ PSD  
+ - PSD-capable plastic scintillators from Dr. Natalia Zaitseva, LLNL   
+**Location**: 1140 Etcheverry Hall, modular room  
+**Readout**: SIS3302/3150   
+**Related Experiments**:  [Lab 4 (PSD)]({filename}/downloads/lab8_writeup.pdf)    
+**Status**: <font color="orange">Un-instrumented, PMTs/based on order</font>  
+**Additional Documentation**: None  
+
+### CLYC Detector
 
 ### LSO Array & Coded Aperture
 
 ### NaI Bars
 
 ### 100%ers
+
