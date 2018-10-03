@@ -20,8 +20,20 @@ Location:
 Readout:
 Related Experiments:
 Status:
+Additional Documentation:
 
 ### LaBr
+**Description**: 2 in. x 2 in. LaBr scintillator with 3 in. Hamamatsu
+[r6233-100](https://www.hamamatsu.com/eu/en/product/type/R6233/index.html)  
+ - Operating Voltage: +540V  
+ - Ener. Res. @ 662 keV: 2.6% (from manufacturer)  
+**Location**: Etcheverry Hall (1110B or 1140)  
+**Readout**: Analog PMT base + SIS | Analog PMT base + NIM | 
+             [Digibase](https://www.ortec-online.com/products/electronics/photomultiplier-tube-bases/digibase-e)  
+**Related Experiments**: [Lab 3]({filename}/downloads/lab3_writeup.pdf), 
+                         Time resolution (cf. NE104 Lab 6)  
+**Status**: <font color="green">Working as of 10/2/2018</font>  
+**Additional Documentation**: None  
 
 ### CCI-2 (VCI)
 
