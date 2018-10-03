@@ -47,12 +47,13 @@ Additional Documentation:
                          [Lab 6]({filename}/downloads/lab6_writeup.pdf),
                          [Lab 8]({filename}/downloads/lab8_writeup.pdf)  
 **Status**: <font color="orange">Hopefully available by 10/18/18</font>  
-**Additional Documentation**: None  
+**Additional Documentation**: [CCI2 TechReport 1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73814889)
+                              [CCI2 TechReport 2](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73814890)   
 
-### UCBGe2\_2011
+### UCBGe2\_2008 (re-fabbed in 2011)
 **Description**: Double-sided strip HPGe detector  
  - 11 mm thick, segmented orthogonal-strip electrodes  
- - 74 Strips, 2mm pitch, 0.5mm gap, 5mm guard ring  
+ - 76 Strips (38 per side), 2mm pitch, 0.25mm gap, 5mm guard ring  
  - Operating Voltage: +1000V  
  - Ener. Res. @ 662 keV: 0.19 - 0.5% (depending on strip)  
 **Location**: LBNL SDL (70A)  
@@ -60,10 +61,10 @@ Additional Documentation:
 **Related Experiments**: [Lab 5]({filename}/downloads/lab5_writeup.pdf), 
                          [Lab 6]({filename}/downloads/lab6_writeup.pdf),
                          [Lab 8]({filename}/downloads/lab8_writeup.pdf)  
-**Status**: <font color="red">Unavailable for Fall 2018</font>  
-**Additional Documentation**: None  
+**Status**: <font color="red">Unavailable for Fall 2018</font>    
+**Additional Documentation**: [UCB2008 Ge2 Refabrication Report (2011)](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815778)
 
-### UCBGe3
+### UCBGe3\_2011
 **Description**: Double-sided strip HPGe detector  
  - 15.1 mm thick, segmented orthogonal-strip electrodes  
  - 152 Strips, 2mm pitch, 0.25mm gap, 5mm guard ring  
@@ -111,7 +112,8 @@ Additional Documentation:
 **Readout**: SIS3302/3150
 **Related Experiments**:  [Lab 7]({filename}/downloads/lab7_writeup.pdf)  
 **Status**: <font color="green">2 Detectors Available</font>  
-**Additional Documentation**: None  
+**Additional Documentation**: [UCBCZT1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815805)
+                              [UCBCZT2](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815806)   
 
 ### PSD Plastics
 **Description**: 1 in. or 2 in. Plastic Scint. w/ PSD  
