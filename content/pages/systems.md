@@ -14,3 +14,31 @@ report.
 
 In addition, the final project for the course requires students to propose an
 instrumentation-focused study 
+
+Description:
+Location:
+Readout:
+Related Experiments:
+Status:
+
+### LaBr
+
+### CCI-2 (VCI)
+
+### UCBGeII\_2011
+
+### UCBGeIII
+
+### Large Area Imager
+
+### PSD Plastics
+
+### Liquid Scintillation Detector (LSD) Scatter Camera
+
+### Pixellated CZT
+
+### LSO Array & Coded Aperture
+
+### NaI Bars
+
+### 100%ers
