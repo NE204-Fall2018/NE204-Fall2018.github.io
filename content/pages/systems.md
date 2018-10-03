@@ -49,9 +49,21 @@ Additional Documentation:
 **Status**: <font color="orange">Hopefully available by 10/18/18</font>  
 **Additional Documentation**: None  
 
-### UCBGeII\_2011
+### UCBGe2\_2011
+**Description**: Double-sided strip HPGe detector  
+ - 11 mm thick, segmented orthogonal-strip electrodes  
+ - 74 Strips, 2mm pitch, 0.5mm gap, 5mm guard ring  
+ - Operating Voltage: +1000V  
+ - Ener. Res. @ 662 keV: 0.19 - 0.5% (depending on strip)  
+**Location**: LBNL SDL (70A)  
+**Readout**: SIS3302/3150  
+**Related Experiments**: [Lab 5]({filename}/downloads/lab5_writeup.pdf), 
+                         [Lab 6]({filename}/downloads/lab6_writeup.pdf),
+                         [Lab 8]({filename}/downloads/lab8_writeup.pdf)  
+**Status**: <font color="red">Unavailable for Fall 2018</font>  
+**Additional Documentation**: None  
 
-### UCBGeIII
+### UCBGe3
 
 ### Large Area Imager
 
