@@ -13,4 +13,5 @@ date: 2018-08-16
  - [05_DSP-I_AnalogDigitalConversion](https://bcourses.berkeley.edu/courses/1474357/files)
  - [06_DSP-II_DeconvolutionAndFIRSynthesis](https://bcourses.berkeley.edu/courses/1474357/files)
  - [07_EnergyResolution_Fano_ElectronicNoise]({filename}/downloads/07_ElectronicNoise.pdf)
+ - [Stephen Derenzo - Introduction to Inorganic Scintillators](https://bcourses.berkeley.edu/courses/1474357/files?preview=73823609)
 
