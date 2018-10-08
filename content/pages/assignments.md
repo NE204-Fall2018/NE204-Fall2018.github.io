@@ -55,6 +55,13 @@ discussing for the next several weeks.
 I strongly recommend dedicating quite a bit of time to this reading, along with
 multiple discussions with your peers.
 
+#### 5. [Fundamental Limits of Scintillation Detector Timing Precision - Derenzo, Choong, & Moses](http://iopscience.iop.org/article/10.1088/0031-9155/59/13/3261/meta) | Due: Friday, 10-12-2018
+
+This paper presents a wholistic accounting of the various factors that affect
+timing precision in scintillation detectors.
+Professor Derenzo will be delivering a guest lecture on this topic on Thursday,
+10/11/2018, so I recommend getting an early start on the paper this week.
+
 ## Lab Reports
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
