@@ -23,7 +23,8 @@ MENUITEMS = (('Course Overview', '/pages/course-overview.html'),
              ('Syllabus', '/pages/syllabus.html'),
              ('Assignments', '/pages/assignments.html'),
              ('Lectures', '/pages/lectures.html'),
-             ('Labs', '/category/labs.html'))
+             ('Labs', '/category/labs.html'),
+             ('Available Systems', '/pages/instruments.html'))
 
 # For site theme
 # NOTE: Requires cloning of pelican-themes and pelican-plugins repos into

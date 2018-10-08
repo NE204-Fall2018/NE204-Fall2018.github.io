@@ -13,14 +13,16 @@ coaxial HPGe detectors, then will be responsible for selecting from the
 report.
 
 In addition, the final project for the course requires students to propose an
-instrumentation-focused study 
-
-Description:
-Location:
-Readout:
-Related Experiments:
-Status:
-Additional Documentation:
+instrumentation-focused study.
+Below is an (incomplete) list of instruments and measurement systems that are
+available for NE 204.
+Available relevant information is included for some systems - updates will 
+continue as more information becomes available.
+Some of the instruments are a good fit for one or more of the experiment
+writeups, while others are not (yet) explicitly tied to any particular
+experiment.
+Please consider these instruments for the rotating labs and final project
+proposals.
 
 ### LaBr
 **Description**: 2 in. x 2 in. LaBr scintillator with 3 in. Hamamatsu
