@@ -41,11 +41,10 @@ semester.
   4. Neutron Detection and Pulse Shape Discrimination in Liquid Scintillation
      Detectors
   5. Position Determination in Segmented HPGe
-  6. Position Determination in Pixelated CZT
-  7. Charge Transport Properties in Segmented HPGe
-  8. Charge Transport Properties in Pixelated CZT
-  9. Gamma-Ray Imaging with Segmented HPGe
-  10. Neutron Imaging with Liquid Scintillator Array
+  6. Charge Transport Properties in Segmented HPGe
+  7. Charge Transport Properties in Pixelated CZT
+  8. Gamma-Ray Imaging with Segmented HPGe
+  9. Neutron Imaging with Liquid Scintillator Array
 
 ## Reproducibility and Scientific Computing
 
