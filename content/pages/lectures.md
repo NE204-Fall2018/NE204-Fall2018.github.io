@@ -15,3 +15,4 @@ date: 2018-08-16
  - [07_EnergyResolution_Fano_ElectronicNoise]({filename}/downloads/07_ElectronicNoise.pdf)
  - [Stephen Derenzo - Introduction to Inorganic Scintillators](https://bcourses.berkeley.edu/courses/1474357/files?preview=73823609)
  - [09_Scintillators_Photodetectors_NonProportionality.pdf]({filename}/downloads/09_Scintillators_Photodetectors_NonProportionality.pdf)
+ - [10_Scintillators_ScintillatorTiming.pdf](https://bcourses.berkeley.edu/courses/1474357/files?preview=73880384)
