@@ -67,3 +67,5 @@ Professor Derenzo will be delivering a guest lecture on this topic on Thursday,
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
 
 #### [Lab 1]({filename}/downloads/lab1_writeup.pdf) | Due Friday, 10/5/2018 by 9PM PST
+
+#### [Lab 2]({filename}/downloads/lab2_writeup.pdf) | Due Friday, 10/26/2018 by 9 PM PST
