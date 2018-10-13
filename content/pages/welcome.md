@@ -14,7 +14,7 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
 ## Instructor
 
  - Ross Barnowski (rossbar@berkeley.edu)
-    - Office hours: TBD
+    - Office hours: Wednesdays, 9AM - 1PM | 1110B Etcheverry Hall
 
 ### Assistants and Guest Lecturers
 

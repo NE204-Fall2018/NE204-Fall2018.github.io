@@ -16,7 +16,7 @@ modified: 2018-08-16
 Ross Barnowski (rossbar@berkeley.edu)  
 Office Location: 4159 Etcheverry Hall  
 Lab Location: 1140 Etcheverry Hall  
-Office Hours: TBD  
+Office Hours: Wednesdays, 9AM - 1PM | 1110B Etcheverry Hall
 
 ### Course Description
 
