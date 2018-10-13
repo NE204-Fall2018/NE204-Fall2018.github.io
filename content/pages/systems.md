@@ -31,7 +31,8 @@ proposals.
  - Ener. Res. @ 662 keV: 2.6% (from manufacturer)  
 **Location**: Etcheverry Hall (1110B or 1140)  
 **Readout**: Analog PMT base + SIS | Analog PMT base + NIM | 
-             [Digibase](https://www.ortec-online.com/products/electronics/photomultiplier-tube-bases/digibase-e)  
+             [Digibase](https://www.ortec-online.com/products/electronics/photomultiplier-tube-bases/digibase-e) |
+             SIS33XX   
 **Related Experiments**: [Lab 3]({filename}/downloads/lab3_writeup.pdf), 
                          Time resolution (cf. NE104 Lab 6)  
 **Status**: <font color="green">Working as of 10/2/2018</font>  
@@ -49,7 +50,7 @@ proposals.
                          [Lab 6]({filename}/downloads/lab6_writeup.pdf),
                          [Lab 8]({filename}/downloads/lab8_writeup.pdf)  
 **Status**: <font color="orange">Hopefully available by 10/18/18</font>  
-**Additional Documentation**: [CCI2 TechReport 1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73814889)
+**Additional Documentation**: [CCI2 TechReport 1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73814889),
                               [CCI2 TechReport 2](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73814890)   
 
 ### UCBGe2\_2008 (re-fabbed in 2011)
@@ -99,9 +100,9 @@ proposals.
  - Operating Voltage: ~ -1350V (varies by channel)   
  - Ener. Res. @ 662 keV: N/A  
 **Location**: 1140 Etcheverry Hall, 1140B   
-**Readout**: SIS3320 OR SIS3316   
+**Readout**: SIS3320 | SIS3316   
 **Related Experiments**:  [Lab 4]({filename}/downloads/lab4_writeup.pdf)
-                          [Lab 9]   
+                          [Lab 9]({filename}/downloads/lab9_writeup.pdf)   
 **Status**: <font color="orange">Available, readout requires setup</font>  
 **Additional Documentation**: None  
 
@@ -114,7 +115,7 @@ proposals.
 **Readout**: SIS3302/3150
 **Related Experiments**:  [Lab 7]({filename}/downloads/lab7_writeup.pdf)  
 **Status**: <font color="green">2 Detectors Available</font>  
-**Additional Documentation**: [UCBCZT1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815805)
+**Additional Documentation**: [UCBCZT1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815805),
                               [UCBCZT2](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815806)   
 
 ### PSD Plastics
@@ -122,13 +123,33 @@ proposals.
  - PSD-capable plastic scintillators from Dr. Natalia Zaitseva, LLNL   
 **Location**: 1140 Etcheverry Hall, modular room  
 **Readout**: SIS3302/3150   
-**Related Experiments**:  [Lab 4 (PSD)]({filename}/downloads/lab8_writeup.pdf)    
-**Status**: <font color="orange">Un-instrumented, PMTs/based on order</font>  
+**Related Experiments**:  [Lab 4 (PSD)]({filename}/downloads/lab4_writeup.pdf)    
+**Status**: <font color="red">Un-instrumented, PMTs/bases on order</font>  
 **Additional Documentation**: None  
 
 ### CLYC Detector
+**Description**: 2x2 in. CLYC Detector  
+ - PSD-capable detector for n/gamma discrimination   
+ - Moderate (~4%) Energy resolution  
+**Location**: 1140 Etcheverry Hall   
+**Readout**: [Bridgeport Systems eMorpho](https://www.bridgeportinstruments.com/products/usb_base/usb_base.html)  
+**Related Experiments**:  [Lab 4 (PSD)]({filename}/downloads/lab4_writeup.pdf)    
+**Status**: <font color="green">Integrated eMorpho PMT/Base Operational w/ working software</font>    
+**Additional Documentation**: [CLYC](http://rmdinc.com/wp-content/uploads/2016/06/CLYC-Properties-5-10-16.pdf)   
 
 ### LSO Array & Coded Aperture
+**Description**: 16 LSO Modules, 4 PMTs per module   
+ - Subset of array formerly used for a PET system   
+ - Excellent time response (O(100 ps))   
+ - Includes 2D coded-aperture mask for high-energy gamma-ray imaging   
+**Location**: 1140 Etcheverry Hall, modular room   
+**Readout**: SIS3316 (Ethernet or SIS3150 readout)   
+**Related Experiments**:  [Lab 3 (Timing)]({filename}/downloads/lab3_writeup.pdf)    
+                          [Lab 8 (CA)]({filename}/downloads/lab8_writeup.pdf)    
+**Status**: <font color="orange">3150 for off-line readout, 3316 real-time readout under development</font>    
+**Additional Documentation**: None
+
+### Plastic/Lead System
 
 ### NaI Bars
 
