@@ -62,6 +62,11 @@ timing precision in scintillation detectors.
 Professor Derenzo will be delivering a guest lecture on this topic on Thursday,
 10/11/2018, so I recommend getting an early start on the paper this week.
 
+#### 6. [Review of the Shockley-Ramo Theorem and its Application in Semiconductor Gamma-Ray Detectors](https://www.sciencedirect.com/science/article/pii/S0168900201002236) | Due: Friday 10-19-2018
+
+A nice review of SR from the perspective of signal formation in semiconductor
+detectors.
+
 ## Lab Reports
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
