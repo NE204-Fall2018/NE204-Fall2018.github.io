@@ -14,5 +14,6 @@ date: 2018-08-16
  - [06_DSP-II_DeconvolutionAndFIRSynthesis](https://bcourses.berkeley.edu/courses/1474357/files)
  - [07_EnergyResolution_Fano_ElectronicNoise]({filename}/downloads/07_ElectronicNoise.pdf)
  - [Stephen Derenzo - Introduction to Inorganic Scintillators](https://bcourses.berkeley.edu/courses/1474357/files?preview=73823609)
- - [09_Scintillators_Photodetectors_NonProportionality.pdf]({filename}/downloads/09_Scintillators_Photodetectors_NonProportionality.pdf)
+ - [09_Scintillators_Photodetectors_NonProportionality]({filename}/downloads/09_Scintillators_Photodetectors_NonProportionality.pdf)
  - [Stephen Derenzo - Scintillation Detector Timing](https://bcourses.berkeley.edu/courses/1474357/files?preview=73880384)
+ - [11_SemiconductorSignalFormation]({filename}/downloads/11_SemiconductorSignalFormation.pdf)
