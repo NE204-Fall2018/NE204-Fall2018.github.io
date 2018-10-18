@@ -76,7 +76,7 @@ proposals.
 **Location**: LBNL SDL (70A)
 **Readout**: SIS3302/3150  
 **Related Experiments**: [Lab 5]({filename}/downloads/lab5_writeup.pdf), 
-                         [Lab 6]({filename}/downloads/lab6_writeup.pdf)
+                         [Lab 6]({filename}/downloads/lab6_writeup.pdf)   
 **Status**: <font color="orange">**Only half instrumented**</font>  
 **Additional Documentation**: None  
 
@@ -106,13 +106,13 @@ proposals.
 **Status**: <font color="orange">Available, readout requires setup</font>  
 **Additional Documentation**: None  
 
-### Pixellated CZT
+### Pixelated CZT
 **Description**: 10 mm3 CZT w/ 3x3 pixellated anode   
  - 1 cm3 crystal, 3x3 pixellated anode + guard ring (see docs)  
  - Operating Voltage: ~ -1000V (see docs)  
  - Ener. Res. @ 662 keV: see docs   
 **Location**: 1140 Etcheverry Hall, modular room   
-**Readout**: SIS3302/3150
+**Readout**: SIS3302/3150   
 **Related Experiments**:  [Lab 7]({filename}/downloads/lab7_writeup.pdf)  
 **Status**: <font color="green">2 Detectors Available</font>  
 **Additional Documentation**: [UCBCZT1](https://bcourses.berkeley.edu/courses/1474357/files/?preview=73815805),
@@ -144,7 +144,7 @@ proposals.
  - Includes 2D coded-aperture mask for high-energy gamma-ray imaging   
 **Location**: 1140 Etcheverry Hall, modular room   
 **Readout**: SIS3316 (Ethernet or SIS3150 readout)   
-**Related Experiments**:  [Lab 3 (Timing)]({filename}/downloads/lab3_writeup.pdf)    
+**Related Experiments**:  [Lab 3 (Timing)]({filename}/downloads/lab3_writeup.pdf),
                           [Lab 8 (CA)]({filename}/downloads/lab8_writeup.pdf)    
 **Status**: <font color="orange">3150 for off-line readout, 3316 real-time readout under development</font>    
 **Additional Documentation**: None
