@@ -17,3 +17,4 @@ date: 2018-08-16
  - [09_Scintillators_Photodetectors_NonProportionality]({filename}/downloads/09_Scintillators_Photodetectors_NonProportionality.pdf)
  - [Stephen Derenzo - Scintillation Detector Timing](https://bcourses.berkeley.edu/courses/1474357/files?preview=73880384)
  - [11_SemiconductorSignalFormation]({filename}/downloads/11_SemiconductorSignalFormation.pdf)
+ - [12_SemiconductorMobility]({filename}/downloads/12_SemiconductorMobility.pdf)
