@@ -25,6 +25,7 @@ Please consider these instruments for the rotating labs and final project
 proposals.
 
 ### LaBr
+![LaBr]({filename}/downloads/LaBr.png)   
 **Description**: 2 in. x 2 in. LaBr scintillator with 3 in. Hamamatsu
 [r6233-100](https://www.hamamatsu.com/eu/en/product/type/R6233/index.html)  
  - Operating Voltage: +540V  
@@ -39,6 +40,7 @@ proposals.
 **Additional Documentation**: None  
 
 ### CCI-2 (VCI)
+![CCI2]({filename}/downloads/CCI2.png)    
 **Description**: 2x Double-sided strip HPGe detector  
  - 2 planar detectors, each 15.1 mm thick, segmented orthogonal-strip electrodes  
  - 152 Strips, 2mm pitch, 0.25mm gap, 5mm guard ring  
@@ -81,6 +83,7 @@ proposals.
 **Additional Documentation**: None  
 
 ### Large Area Imager
+![LAI]({filename}/downloads/LAI.png)   
 **Description**: 10x10 NaI(Tl) Coded Aperture Imager  
  - 10x10 array of NaI(Tl) detectors w/ PMTs  
  - 4x4x4 in. NaI(Tl) crystals  
@@ -107,6 +110,7 @@ proposals.
 **Additional Documentation**: None  
 
 ### Pixelated CZT
+![CZT]({filename}/downloads/PixelatedCZT.png)   
 **Description**: 10 mm3 CZT w/ 3x3 pixellated anode   
  - 1 cm3 crystal, 3x3 pixellated anode + guard ring (see docs)  
  - Operating Voltage: ~ -1000V (see docs)  
@@ -128,6 +132,7 @@ proposals.
 **Additional Documentation**: None  
 
 ### CLYC Detector
+![CLYC]({filename}/downloads/CLYC.png)   
 **Description**: 2x2 in. CLYC Detector  
  - PSD-capable detector for n/gamma discrimination   
  - Moderate (~4%) Energy resolution  
@@ -138,6 +143,7 @@ proposals.
 **Additional Documentation**: [CLYC](http://rmdinc.com/wp-content/uploads/2016/06/CLYC-Properties-5-10-16.pdf)   
 
 ### LSO Array & Coded Aperture
+![LSO]({filename}/downloads/LSO.png)   
 **Description**: 16 LSO Modules, 4 PMTs per module   
  - Subset of array formerly used for a PET system   
  - Excellent time response (O(100 ps))   
