@@ -103,7 +103,8 @@ proposals.
 **Readout**: SIS3320 | SIS3316   
 **Related Experiments**:  [Lab 4]({filename}/downloads/lab4_writeup.pdf)
                           [Lab 9]({filename}/downloads/lab9_writeup.pdf)   
-**Status**: <font color="orange">Available, readout requires setup</font>  
+**Status**: <font color="green">3320 Readout available</font>,
+            <font color="orange">3316 Readout requires setup</font>   
 **Additional Documentation**: None  
 
 ### Pixelated CZT
