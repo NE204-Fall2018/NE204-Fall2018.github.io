@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Lab Submissions - NE204-Fall2018</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="/lab-submissions.html">
+
+        <meta name="author" content="Ross Barnowski" />
+        <meta name="description" content="Each report will be built from the source files (LaTeX and any figures in the images/ directory, for example). To make this simpler, the lab report template comes with a Makefile. Using the GNU make utility, a .pdf of the lab report is compiled from the LaTeX source files by …" />
+
+        <meta property="og:site_name" content="NE204-Fall2018" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Lab Submissions"/>
+        <meta property="og:url" content="/lab-submissions.html"/>
+        <meta property="og:description" content="Each report will be built from the source files (LaTeX and any figures in the images/ directory, for example). To make this simpler, the lab report template comes with a Makefile. Using the GNU make utility, a .pdf of the lab report is compiled from the LaTeX source files by …"/>
+        <meta property="article:published_time" content="2018-08-16" />
+            <meta property="article:section" content="labs" />
+            <meta property="article:author" content="Ross Barnowski" />
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+NE204-Fall2018            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/pages/course-overview.html">Course Overview</a></li>
+                    <li><a href="/pages/syllabus.html">Syllabus</a></li>
+                    <li><a href="/pages/assignments.html">Assignments</a></li>
+                    <li><a href="/pages/lectures.html">Lectures</a></li>
+                    <li><a href="/category/labs.html">Labs</a></li>
+                    <li><a href="/pages/instruments.html">Available Systems</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<!-- Banner -->
+<!-- End Banner -->
+
+<!-- Content Container -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/lab-submissions.html"
+                       rel="bookmark"
+                       title="Permalink to Lab Submissions">
+                        Lab Submissions
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2018-08-16T00:00:00-07:00"> Thu 16 August 2018</time>
+    </span>
+
+
+
+
+
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>Each report will be built from the source files (LaTeX and any figures in the
+<code>images/</code> directory, for example).
+To make this simpler, the lab report template comes with a <code>Makefile</code>.
+Using the GNU <code>make</code> utility, a .pdf of the lab report is compiled from the 
+LaTeX source files by typing <code>make</code>.
+Note that, even if you submit a .pdf in the git repo for your report, it will 
+be ignored!
+The report that will be evaluated is the one that is generated using the 
+<code>Makefile</code>.</p>
+<p>There are several other commands in the <code>Makefile</code>, two of which <em>must</em> be
+implemented to obtain full credit for the submitted report (see the
+<a href="/lab-report-rubric.html">rubric</a> for details).</p>
+<ol>
+<li>
+<p><code>make test</code>: You must implement some rudimentary unit-tests for your code.</p>
+</li>
+<li>
+<p><code>make data</code>: You must implement a method for downloading any data relevant
+    for your analysis.</p>
+</li>
+</ol>
+<p>If you have no idea what this means, don't worry.
+It will be covered in our first lab session(s), and the in-class
+example detailing these features will thereafter be available on 
+<a href="https://github.com/NE204-Fall2018">the course github page</a>.</p>
+<p>It is not <em>required</em> that students use the 
+<a href="https://github.com/NE204-Fall2018/lab_report_template">provided template</a> to
+strucure their lab reports.
+For example, if you do not want to use make, you can replace the <code>Makefile</code> 
+with a build script of your own design.
+However, if you choose to do so, the README for your project must include the
+following information:</p>
+<ol>
+<li>Instructions for building your report from the source files</li>
+<li>Instructions for running your code tests</li>
+<li>Instructions for downloading any relevant data</li>
+</ol>
+<p>Note that these "Instructions" should be in the form of a script(s) that can be
+run on the command line.</p>
+<h3>Validating your submission</h3>
+<p>The best way to verify that your report is going to come out the way you 
+expect it to is to clone a fresh version of your report repository and build
+it from scratch.</p>
+<h3>Submitting via Github</h3>
+<p>All lab reports will be submitted via github.
+To submit your lab report, use the following procedure:</p>
+<ol>
+<li>Go to the class <a href="https://github.com/orgs/NE204-Fall2018/dashboard">Github organization</a>.</li>
+<li>Click the button to create a new repository.</li>
+<li>Name the repository &lt;your_github_username>-lab&lt;#>. For example, if
+    I were creating a repository to submit lab 4, the repository would be named
+    <strong>rossbar-lab4</strong>.</li>
+<li>Add the link to the remote repository you just created to your list of
+    remotes in your local repository.
+    Again taking my submission of lab 4 as an example:
+    <code>git remote add submission https://github.com/NE204-Fall2018/rossbar-lab4.git</code></li>
+<li>Push your local repository to the newly created remote named "submission":
+    <code>git push submission master</code>.</li>
+</ol>
+<p>Whatever is on the master branch of this repository at 9PM on the due date
+will be considered your submission.</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<!-- Sidebar -->
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
+
+<!-- Sidebar/Links -->
+<li class="list-group-item">
+  <h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+  <ul class="list-group" id="links">
+    <li class="list-group-item">
+      <a href="https://github.com/NE204-Fall2018" target="_blank">Course Gihtub Organization</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://www.scipy-lectures.org/intro/" target="_blank">Python for Science</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://git-scm.com/book/en/v2" target="_blank">Learning Git</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://github.com/rossbar/LaTeXIntro" target="_blank">Intro to LaTeX</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Links -->
+  </ul>
+</section>
+<!-- End Sidebar -->            </aside>
+        </div>
+    </div>
+</div>
+<!-- End Content Container -->
+
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2018 Ross Barnowski
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+
+
+
+</body>
+</html>
