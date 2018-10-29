@@ -67,6 +67,11 @@ Professor Derenzo will be delivering a guest lecture on this topic on Thursday,
 A nice review of SR from the perspective of signal formation in semiconductor
 detectors.
 
+#### 7. [Gamma-Ray Imaging Overview]({filename}/downloads/imaging_methods_overview.pdf) | Due: Friday 11-09-2018
+
+This ~70-page review paper covers many of the general aspects of gamma-ray
+imaging, including different imaging modalities and imaging applications.
+
 ## Lab Reports
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
