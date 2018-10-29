@@ -18,3 +18,6 @@ date: 2018-08-16
  - [Stephen Derenzo - Scintillation Detector Timing](https://bcourses.berkeley.edu/courses/1474357/files?preview=73880384)
  - [11_SemiconductorSignalFormation]({filename}/downloads/11_SemiconductorSignalFormation.pdf)
  - [12_SemiconductorMobility]({filename}/downloads/12_SemiconductorMobility.pdf)
+ - Peter Marleau - Neutron Detection and Pulse Shape Discrimination
+ - Erik Brubaker - Neutron Imaging Modalities and Applications
+ - [15_OrganicScintillators]({filename}/downloads/15_OrganicScintillators.pdf)
