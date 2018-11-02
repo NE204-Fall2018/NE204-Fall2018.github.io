@@ -19,7 +19,10 @@ Link to [NE204 Github](https://github.com/orgs/NE204-Fall2018/dashboard)
 ### Assistants and Guest Lecturers
 
  - Joseph Curtis (jccurtis@lbl.gov)  
- - Marco Salathe (MSalathe@lbl.gov)
+ - Dr. Marco Salathe (MSalathe@lbl.gov)  
+ - Dr. Stephen Derenzo (SEDerenzo@lbl.gov)  
+ - Dr. Peter Marleau (pmarlea@sandia.gov)  
+ - Dr. Erik Brubaker (ebrubak@sandia.gov)  
 
 ## Session Dates
  - Lecture: Tu & Th 2-3 PM | 54 Barrows Hall
