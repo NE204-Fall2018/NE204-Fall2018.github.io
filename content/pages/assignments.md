@@ -94,5 +94,5 @@ Monday 11-26.
 #### [Lab 2]({filename}/downloads/lab2_writeup.pdf) | Due Friday, 10/26/2018 by 9 PM PST
 
 ## Final Project | Due Friday, 12/7/2017 by 9PM PST
-#### Rough Draft | Due Monday, 11/26/2018 by 9PM PST   
-#### Peer-Review | Due Friday, 11/30/2018 by 9PM PST
+#### Rough Draft | Due Monday, 11/30/2018 by 9PM PST   
+#### Peer-Review | Due Friday, 12/3/2018 by 9PM PST
