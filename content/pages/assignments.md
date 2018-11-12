@@ -72,6 +72,19 @@ detectors.
 This ~70-page review paper covers many of the general aspects of gamma-ray
 imaging, including different imaging modalities and imaging applications.
 
+#### 8. Image Reconstruction: [Maximum Likelihood from Incomplete Data via the EM Algorithm](https://web.mit.edu/6.435/www/Dempster77.pdf) and [List-Mode Likelihood: EM Algorithm and Image Quality Estimation Demonstrated on 2-D PET](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2969844/) | Due Monday, 11-26-2018
+
+These important articles introduce the concepts of iterative image 
+reconstruction techniques based on the maximum likelihood formulation.
+The first paper from Dempster introduces the expectation maximization
+algorithm, while the Barret & Parra paper covers list-mode ML-EM based on
+Poisson statistics. 
+Since the papers are quite dense and we have the holiday coming up, I have
+made the discussion "due" on the Monday following the Thanksgiving break:
+this gives you the opportunity to read the papers over the long break and to
+perhaps come back and hold your discussion after the department colloquium on
+Monday 11-26.
+
 ## Lab Reports
 
 #### [Lab 0]({filename}/downloads/lab0_writeup.pdf) | Due Thursday, 9/13/2018 by 9PM PST
