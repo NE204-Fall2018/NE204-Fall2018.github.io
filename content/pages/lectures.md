@@ -21,3 +21,4 @@ date: 2018-08-16
  - [Peter Marleau - Neutron Detection and Pulse Shape Discrimination](https://bcourses.berkeley.edu/courses/1474357/files?preview=74027784)
  - [Erik Brubaker - Neutron Imaging Modalities and Applications](https://bcourses.berkeley.edu/courses/1474357/files/folder/NeutronImagingLectures)
  - [15_OrganicScintillators]({filename}/downloads/15_OrganicScintillators.pdf)
+ - [16_GammaRayImaging]({filename}/downloads/16_GammaRayImaging.pdf)
